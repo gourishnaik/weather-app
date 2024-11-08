@@ -1,0 +1,16 @@
+.weather-background{
+    height: 100vh;
+    background: url(../assets/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3)
+}
+
+.btn-primary{
+    width: 200px;
+}
+.sun{
+    width: 300px;
+}
